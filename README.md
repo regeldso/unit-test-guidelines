@@ -10,7 +10,7 @@ Object to be tested | Name
 ------------ | -------------
 Project | [ProjectUnderTest].UnitTests
 Class | [ClassName]Tests
-Unit of work | [UnitOfWorkName]_[ScenarioUnderTest]_[ExpectedBehavior] (*for exaple IsValidFileName_BadExtension_ReturnsFalse()*)
+Unit of work | [UnitOfWorkName]\_[ScenarioUnderTest]\_[ExpectedBehavior] (*for exaple IsValidFileName_BadExtension_ReturnsFalse()*)
 
 ##2. Styling
 * The test name can be very long.
